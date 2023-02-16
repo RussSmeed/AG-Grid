@@ -1,0 +1,27 @@
+header {
+  background-color: #3e87c5;
+  min-height: 80px;
+  padding: 0 5%;
+  display: flex;
+  align-items: center;
+  color: #ffffff;
+}
+
+header h1 {
+  margin-bottom: 0;
+}
+
+footer {
+  background-color: #3e87c5;
+  min-height: 60px;
+  padding: 0 5%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: #ffffff;
+  flex-direction: column;
+}
+
+.table-content {
+  min-height: calc(100vh - 236px);
+}
